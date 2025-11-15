@@ -1,0 +1,412 @@
+# internal/tui - Aggregated Keywords
+
+## Keywords from this directory and subdirectories
+
+### AppKeyMap
+
+- Type definition in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### AppModel
+
+- Type definition in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### CancelDownload
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### Close
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### Config
+
+- Type definition in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### Counts
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DatasetsMsg
+
+- Type definition in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### DatasetsPageModel
+
+- Type definition in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### DefaultAppKeyMap
+
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### DefaultDownloadsPageKeyMap
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### DefaultJobsPageKeyMap
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### DownloadCompleteMsg
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadDesc
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadItem
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadManager
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadProgressMsg
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadProgressWriter
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadState
+
+- Type definition in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### DownloadsPageKeyMap
+
+- Type definition in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### DownloadsPageModel
+
+- Type definition in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### FilesMsg
+
+- Type definition in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### FullHelp
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### Init
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Function in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### JobsMsg
+
+- Type definition in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### JobsPageKeyMap
+
+- Type definition in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### JobsPageModel
+
+- Type definition in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### NewAppModel
+
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### NewDatasetsPage
+
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### NewDownloadManager
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### NewDownloadsPage
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### NewJobsPage
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### NewPublishersPage
+
+- Function in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+
+### ProgressChannel
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### PublishersMsg
+
+- Type definition in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+
+### PublishersPageModel
+
+- Type definition in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+
+### QueueDownload
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### QueueDownloadMsg
+
+- Type definition in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### Run
+
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### SchemasMsg
+
+- Type definition in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### ShortHelp
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### TrySendChannel
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### Update
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Function in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### View
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Function in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### Write
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### bigHeart
+
+- Constant/Variable in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### checkQueue
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### clampFloat
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### clampInt
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### cmd
+
+- Constant/Variable in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Constant/Variable in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+
+### cmd1
+
+- Constant/Variable in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### cmds
+
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Constant/Variable in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### completeDownload
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### datasetColumnIndex
+
+- Constant/Variable in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### datasetStrlen
+
+- Constant/Variable in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### destMap
+
+- Constant/Variable in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### enqueueDownload
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### files
+
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### footerView
+
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### getDatasets
+
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### getFiles
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### getJobs
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### getPublishers
+
+- Function in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+
+### getSchemas
+
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### headerView
+
+- Function in internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+
+### item
+
+- Constant/Variable in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### jobDetailRows
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### jobsPane
+
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### leftOfURLWidth
+
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### listenForProgress
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### maxFloat
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### maxInt
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### minFloat
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### minInt
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### niceBool
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### niceInt
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### niceTime
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### onDatasetSelection
+
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### onDownload
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### onDownloadProgress
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### onJobSelection
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### pane
+
+- Constant/Variable in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+
+### performDownload
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### progressStr
+
+- Constant/Variable in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### queueHandler
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### renderProgressBar
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+
+### rows
+
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Constant/Variable in internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+- Constant/Variable in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### sendProgress
+
+- Function in internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+
+### teaCmdize
+
+- Function in internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### tui
+
+- Package name - internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Package name - internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+- Package name - internal/tui/publishers.go - [`internal/tui/publishers.go`](../internal/tui/publishers.go)
+- Package name - internal/tui/download_manager.go - [`internal/tui/download_manager.go`](../internal/tui/download_manager.go)
+- Package name - internal/tui/styles.go - [`internal/tui/styles.go`](../internal/tui/styles.go)
+- Package name - internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+- Package name - internal/tui/main.go - [`internal/tui/main.go`](../internal/tui/main.go)
+- Package name - internal/tui/utils.go - [`internal/tui/utils.go`](../internal/tui/utils.go)
+
+### updateFocus
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### updateHeights
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### updateSizes
+
+- Function in internal/tui/downloads.go - [`internal/tui/downloads.go`](../internal/tui/downloads.go)
+- Function in internal/tui/datasets.go - [`internal/tui/datasets.go`](../internal/tui/datasets.go)
+
+### updateWidths
+
+- Function in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+### viewStr
+
+- Constant/Variable in internal/tui/jobs.go - [`internal/tui/jobs.go`](../internal/tui/jobs.go)
+
+
+---
+*Generated by repo-book-generator*

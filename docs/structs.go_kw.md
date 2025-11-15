@@ -1,0 +1,267 @@
+# structs.go - Keyword Index
+
+## Keywords and Identifiers
+
+### BboMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### BboMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### BidAskPair
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### BidAskPair_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### Cmbp1Msg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### Cmbp1Msg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### ConsolidatedBidAskPair
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### ConsolidatedBidAskPair_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### ErrorMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### ErrorMsg_ErrSize
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### ErrorMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### Fill_Json
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### Fill_Raw
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### ImbalanceMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### ImbalanceMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### InstrumentDefMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### InstrumentDefMsg_MinSize
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### InstrumentDefMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### IsBbo
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### IsCandle
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### IsCompatibleWith
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### MboMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### MboMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### Mbp0Msg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### Mbp0Msg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### Mbp10Msg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### Mbp10Msg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### Mbp1Msg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### Mbp1Msg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### OhlcvMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### OhlcvMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### RHeader
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### RHeader_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### RSize
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### RType
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### Record
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### StatMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### StatMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### StatusMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### StatusMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### SymbolMappingMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### SymbolMappingMsg_MinSize
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### SystemMsg
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### SystemMsg_MsgSize
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### SystemMsg_Size
+
+- **Description**: Constant/Variable in structs.go
+- **File**: `structs.go`
+
+### dbn
+
+- **Description**: Package name - structs.go
+- **File**: `structs.go`
+
+### fastjson_GetInt64FromString
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### fastjson_GetUint64FromString
+
+- **Description**: Function in structs.go
+- **File**: `structs.go`
+
+### indicators
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### of
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### return
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+### uint8
+
+- **Description**: Type definition in structs.go
+- **File**: `structs.go`
+
+
+---
+*Generated by repo-book-generator*
