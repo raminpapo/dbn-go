@@ -1,0 +1,33 @@
+{
+  "repo_source": "local:/home/user/dbn-go",
+  "repo_fingerprint": "dd0fb7f5c1be022b4bed171701905628e045637b",
+  "files_scanned": 102,
+  "docs_created": 227,
+  "words_estimated": 172846,
+  "bytes_written": 864230,
+  "errors": [],
+  "keywords_indexed": 455,
+  "folders_documented": 19,
+  "status": "completed",
+  "generator_version": "1.0.0",
+  "timestamp": "2025-11-15T20:10:00Z",
+  "artifacts_generated": {
+    "per_file_docs": 102,
+    "per_file_keywords": 102,
+    "folder_indexes": 19,
+    "folder_docs": 19,
+    "folder_keywords": 19,
+    "global_keywords": 1,
+    "comprehensive_book": 1,
+    "verification_report": 1,
+    "manifest": 1,
+    "readme": 1
+  },
+  "repository_stats": {
+    "go_files": 56,
+    "test_files": 9,
+    "markdown_files": 6,
+    "config_files": 8,
+    "binary_files": 23
+  }
+}
